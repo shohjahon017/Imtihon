@@ -6,6 +6,8 @@
 // console.log(reverseString("54529"));
 
 //2-masala
+//== barobar
+//=== farqini bildiradi
 
 //3-masala
 // let arr = +prompt("sonni kiriting");
